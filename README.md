@@ -6,7 +6,6 @@ Turn moments into magic – Create stunning GIFs in seconds!
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
 - [License](#license)
