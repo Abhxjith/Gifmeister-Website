@@ -32,8 +32,8 @@ Turn moments into magic – Create stunning GIFs in seconds!
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/gifmeister.git
-cd gifmeister
+git clone https://github.com/Abhxjith/Gifmeister-Website.git
+cd Gifmeister-Website
 ```
 
 ### **2. Setup Frontend**
